@@ -50,7 +50,7 @@ Yes, you can help by sending us the details of vulnerabilities that we can imple
 * From the menu bar: Build->Make Project  or  Run->Run App
 
 ## How to run Diva?
-* Compile/download the app
+* Compile/download the app from [here](http://www.payatu.com/wp-content/uploads/2016/01/diva-beta.tar.gz)
 * On your phone settings. Go to security and check Unknown Sources checkbox. This allows you to install apps outside of play store. You don’t need to do this if you are installing the app on an emulator.
 * Connect your phone to the computer (make sure USB debugging is enabled on your phone) or run the emulator.
 * cd <app-directory>
